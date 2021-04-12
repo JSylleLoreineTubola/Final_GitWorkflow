@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">SoftwareDesign</string>
+    <string name="title1">John3:16</string>
+    <string name="title2">Philippians4:13</string>
+    <string name="title3">Psalm37:3</string>
+    <string name="description">For God so loved the world, that he gave his only begotten Son, that whoever believes in him should not perish, but have everlasting life.</string>
+    <string name="description2">I Can Do All Things Through Christ Who Strengthens Me.</string>
+    <string name="description3">Trust in the LORD, and do good; dwell in the land and befriend faithfulness.</string>
+
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
 </resources>
